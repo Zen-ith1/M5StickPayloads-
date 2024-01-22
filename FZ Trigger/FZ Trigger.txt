@@ -1,0 +1,7 @@
+FZ Trigger
+
+
+A Proof-Of-Concept Tool that uses the bluetooth in the M5StickC as a button clicker to execute payloads from a distance on the Flipper Zero Device.
+
+
+code in process.
